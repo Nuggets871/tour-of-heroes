@@ -37,7 +37,10 @@ h1 {
     color: #aaa;
     cursor: auto;
   }
-  
+  .selected{
+    background-color: black;
+    color:white;
+  }
   /* everywhere else */
   * {
     font-family: Arial, Helvetica, sans-serif;
